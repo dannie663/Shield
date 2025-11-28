@@ -1,6 +1,6 @@
 # Shield — Cloud-Native Security Platform
 
-Built in public from Lagos, Nigeria by [YOUR REAL FULL NAME]
+Built in public from Lagos, Nigeria by ADEBANJO DANIEL
 
 "I'm turning the fraud capital of the world into the most battle-tested cloud security product on earth."
 
@@ -12,6 +12,6 @@ Day 1: 28 Nov 2025
 Current status: Raw sockets in Go from absolute zero
 
 Follow the journey → watch me ship or fail in public  
-Twitter: @[your twitter handle — make one now if you don’t have]
+Twitter: @Danny_ade
 
 Founder location: Lagos, Nigeria
